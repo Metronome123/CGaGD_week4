@@ -1,4 +1,5 @@
 # CleaningData Week4 Assignment
+# Author: Lars Hulzebos
 #0. Clear all and get to the coalmine
 #{
         rm(list = ls())
