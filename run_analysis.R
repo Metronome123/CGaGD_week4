@@ -3,8 +3,8 @@
 #0. Clear all and get to the coalmine
 #{
         rm(list = ls())
-        setwd("/Users/Lars2016/MyR/data")
-        setwd("CleaningWeek4/UCI HAR Dataset")
+        #setwd("TO DATA DIRECTORY")
+        #setwd("CleaningWeek4/UCI HAR Dataset")
 #}
 
 #1.0 Load labels
